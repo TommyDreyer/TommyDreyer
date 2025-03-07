@@ -42,4 +42,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - Home Lab
-- Active Directory Project
+- <a href="https://github.com/TommyDreyer/Active-Directory-Lab">Active Directory Lab</a>
