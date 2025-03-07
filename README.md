@@ -1,4 +1,4 @@
-# Hello, I'm Tomnmy Dreyer
+# Hello, I'm Tommy Dreyer
 <a href="www.linkedin.com/in/thomas-dreyer-56bbb7133"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
